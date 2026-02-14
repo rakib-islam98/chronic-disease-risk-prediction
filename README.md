@@ -19,21 +19,21 @@ The goal of this project is to develop scalable, reproducible, and deployable ML
 ---
 
 ## Project Structure
-
-chronic-disease-risk-prediction/
-│
-├── diabetes/
-|    ├── data/
-│    ├── notebooks/
-│    ├── models/
-│    ├── app.py
-│    └── README.md
-├── heart_disease/ 
-├── kidney_disease/ 
-├── common/
-├── requirements.txt
-└── README.md
-
+  
+chronic-disease-risk-prediction/  
+│  
+├── diabetes/  
+|    ├── data/  
+│    ├── notebooks/  
+│    ├── models/  
+│    ├── app.py  
+│    └── README.md  
+├── heart_disease/  
+├── kidney_disease/  
+├── common/  
+├── requirements.txt  
+└── README.md  
+  
 ---
 
 ## Key Features
